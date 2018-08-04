@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { StyleSheet, Dimensions, Animated } from 'react-native';
+import { Container, Img, OverlayText, Text, BottomContainer } from '../../components';
 import Interactable from 'react-native-interactable';
-import { Container, Img, OverlayText, Text, BottomContainer
-} from '../../components';
 
 const Screen = Dimensions.get('window');
 
