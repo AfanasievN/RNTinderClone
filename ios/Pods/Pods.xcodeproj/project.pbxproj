@@ -1,0 +1,459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7012D3CB93EF60DB8FD4CFFC96BAA790 /* Pods-RNTinderCloneApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F45D52EAA847F83B6AD6743BB51BDA0C /* Pods-RNTinderCloneApp-dummy.m */; };
+		FB2D8A9464787076BC802426CA612E51 /* Pods-RNTinderCloneAppTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AD8C1DBA72A81F4325055D67FA733246 /* Pods-RNTinderCloneAppTests-dummy.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		77D3E92E0A9F709CC7A449158F0FDB61 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E217835734662DBA0328AB24B2069777;
+			remoteInfo = "Pods-RNTinderCloneApp";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		14624BEEC21289326B67A5AFFA4202E9 /* Pods-RNTinderCloneAppTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RNTinderCloneAppTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		1A5261366D3BC6567AA976FE1D0EF53F /* libPods-RNTinderCloneAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-RNTinderCloneAppTests.a"; path = "libPods-RNTinderCloneAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		236DFC1FF9EB80F211A1F77A23B7A0DA /* Pods-RNTinderCloneAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RNTinderCloneAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		49F1DFF89B68ADBDE1912BD7FA8AC2DC /* libPods-RNTinderCloneApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-RNTinderCloneApp.a"; path = "libPods-RNTinderCloneApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4BD42BFE32CE5917416C34C281CBD6D5 /* Pods-RNTinderCloneApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RNTinderCloneApp.debug.xcconfig"; sourceTree = "<group>"; };
+		607CCF78520F442FC5967869C138E3A4 /* Pods-RNTinderCloneApp-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RNTinderCloneApp-resources.sh"; sourceTree = "<group>"; };
+		660C6A2AD79752C0842C1072E6213859 /* Pods-RNTinderCloneApp-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RNTinderCloneApp-acknowledgements.markdown"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9999F955A38F1215E2F21E1EF623FE3D /* Pods-RNTinderCloneApp-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-RNTinderCloneApp-acknowledgements.plist"; sourceTree = "<group>"; };
+		A06C71D605BAE96ADD546D2D379FCE49 /* Pods-RNTinderCloneApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RNTinderCloneApp.release.xcconfig"; sourceTree = "<group>"; };
+		AD8C1DBA72A81F4325055D67FA733246 /* Pods-RNTinderCloneAppTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RNTinderCloneAppTests-dummy.m"; sourceTree = "<group>"; };
+		C041F9222C9149CCF2A4E866DFFC4E4B /* Pods-RNTinderCloneAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RNTinderCloneAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		E054C9619179FAB3D5E9B23021CC91D0 /* Pods-RNTinderCloneAppTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-RNTinderCloneAppTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		EE902B12E457E4E36FFF80B926EDB66C /* Pods-RNTinderCloneApp-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RNTinderCloneApp-frameworks.sh"; sourceTree = "<group>"; };
+		F34F064242A4C0049375B7331AA9995F /* Pods-RNTinderCloneAppTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RNTinderCloneAppTests-resources.sh"; sourceTree = "<group>"; };
+		F45D52EAA847F83B6AD6743BB51BDA0C /* Pods-RNTinderCloneApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RNTinderCloneApp-dummy.m"; sourceTree = "<group>"; };
+		FCE5B04941FA00F92397DDA6635E5141 /* Pods-RNTinderCloneAppTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-RNTinderCloneAppTests-frameworks.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		82F784E91C685ED6461328245304C5DB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9579437D261A8452B28FD3D70A590D7B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4EA436B195850653C69E2943B463F562 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				49F1DFF89B68ADBDE1912BD7FA8AC2DC /* libPods-RNTinderCloneApp.a */,
+				1A5261366D3BC6567AA976FE1D0EF53F /* libPods-RNTinderCloneAppTests.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
+				4EA436B195850653C69E2943B463F562 /* Products */,
+				8D296D33D6F520D2948D67B8675736AE /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8D296D33D6F520D2948D67B8675736AE /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				CFC7531504443B4AD815F2E13D0DED2C /* Pods-RNTinderCloneApp */,
+				E61529F634DF03BC806A69CFA905C716 /* Pods-RNTinderCloneAppTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		CFC7531504443B4AD815F2E13D0DED2C /* Pods-RNTinderCloneApp */ = {
+			isa = PBXGroup;
+			children = (
+				660C6A2AD79752C0842C1072E6213859 /* Pods-RNTinderCloneApp-acknowledgements.markdown */,
+				9999F955A38F1215E2F21E1EF623FE3D /* Pods-RNTinderCloneApp-acknowledgements.plist */,
+				F45D52EAA847F83B6AD6743BB51BDA0C /* Pods-RNTinderCloneApp-dummy.m */,
+				EE902B12E457E4E36FFF80B926EDB66C /* Pods-RNTinderCloneApp-frameworks.sh */,
+				607CCF78520F442FC5967869C138E3A4 /* Pods-RNTinderCloneApp-resources.sh */,
+				4BD42BFE32CE5917416C34C281CBD6D5 /* Pods-RNTinderCloneApp.debug.xcconfig */,
+				A06C71D605BAE96ADD546D2D379FCE49 /* Pods-RNTinderCloneApp.release.xcconfig */,
+			);
+			name = "Pods-RNTinderCloneApp";
+			path = "Target Support Files/Pods-RNTinderCloneApp";
+			sourceTree = "<group>";
+		};
+		E61529F634DF03BC806A69CFA905C716 /* Pods-RNTinderCloneAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				E054C9619179FAB3D5E9B23021CC91D0 /* Pods-RNTinderCloneAppTests-acknowledgements.markdown */,
+				14624BEEC21289326B67A5AFFA4202E9 /* Pods-RNTinderCloneAppTests-acknowledgements.plist */,
+				AD8C1DBA72A81F4325055D67FA733246 /* Pods-RNTinderCloneAppTests-dummy.m */,
+				FCE5B04941FA00F92397DDA6635E5141 /* Pods-RNTinderCloneAppTests-frameworks.sh */,
+				F34F064242A4C0049375B7331AA9995F /* Pods-RNTinderCloneAppTests-resources.sh */,
+				C041F9222C9149CCF2A4E866DFFC4E4B /* Pods-RNTinderCloneAppTests.debug.xcconfig */,
+				236DFC1FF9EB80F211A1F77A23B7A0DA /* Pods-RNTinderCloneAppTests.release.xcconfig */,
+			);
+			name = "Pods-RNTinderCloneAppTests";
+			path = "Target Support Files/Pods-RNTinderCloneAppTests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9CD323EC0EEE2365939712C03D82C115 /* Pods-RNTinderCloneAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0E4923160ED05A9C557C66044566E4E2 /* Build configuration list for PBXNativeTarget "Pods-RNTinderCloneAppTests" */;
+			buildPhases = (
+				75054B3FA25B0E75A8037CD9AD377C5F /* Sources */,
+				82F784E91C685ED6461328245304C5DB /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7516A2E2B3E9EC704573F7D39DF0D95C /* PBXTargetDependency */,
+			);
+			name = "Pods-RNTinderCloneAppTests";
+			productName = "Pods-RNTinderCloneAppTests";
+			productReference = 1A5261366D3BC6567AA976FE1D0EF53F /* libPods-RNTinderCloneAppTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		E217835734662DBA0328AB24B2069777 /* Pods-RNTinderCloneApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8E355B31E39FF04134E24BEF329FCAF8 /* Build configuration list for PBXNativeTarget "Pods-RNTinderCloneApp" */;
+			buildPhases = (
+				2332307389266BB6421866E72F8E901A /* Sources */,
+				9579437D261A8452B28FD3D70A590D7B /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-RNTinderCloneApp";
+			productName = "Pods-RNTinderCloneApp";
+			productReference = 49F1DFF89B68ADBDE1912BD7FA8AC2DC /* libPods-RNTinderCloneApp.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0930;
+				LastUpgradeCheck = 0930;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = 4EA436B195850653C69E2943B463F562 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E217835734662DBA0328AB24B2069777 /* Pods-RNTinderCloneApp */,
+				9CD323EC0EEE2365939712C03D82C115 /* Pods-RNTinderCloneAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2332307389266BB6421866E72F8E901A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7012D3CB93EF60DB8FD4CFFC96BAA790 /* Pods-RNTinderCloneApp-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75054B3FA25B0E75A8037CD9AD377C5F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FB2D8A9464787076BC802426CA612E51 /* Pods-RNTinderCloneAppTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7516A2E2B3E9EC704573F7D39DF0D95C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-RNTinderCloneApp";
+			target = E217835734662DBA0328AB24B2069777 /* Pods-RNTinderCloneApp */;
+			targetProxy = 77D3E92E0A9F709CC7A449158F0FDB61 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		199D972A13F2B4C56847F7A89CCA83BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		473393A758FC17053D6A491446C62602 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 236DFC1FF9EB80F211A1F77A23B7A0DA /* Pods-RNTinderCloneAppTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5107284E2DB97D190D5C0AAAC809DD61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C041F9222C9149CCF2A4E866DFFC4E4B /* Pods-RNTinderCloneAppTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B589728855AE54BA5FF1C340A7DF29CF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4BD42BFE32CE5917416C34C281CBD6D5 /* Pods-RNTinderCloneApp.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B94A1E861390BC3853F75EBF6A115E5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A06C71D605BAE96ADD546D2D379FCE49 /* Pods-RNTinderCloneApp.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FDB2FC4A1E5891381CD9D922145497F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_ALLOWED = NO;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E4923160ED05A9C557C66044566E4E2 /* Build configuration list for PBXNativeTarget "Pods-RNTinderCloneAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5107284E2DB97D190D5C0AAAC809DD61 /* Debug */,
+				473393A758FC17053D6A491446C62602 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				199D972A13F2B4C56847F7A89CCA83BC /* Debug */,
+				FDB2FC4A1E5891381CD9D922145497F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8E355B31E39FF04134E24BEF329FCAF8 /* Build configuration list for PBXNativeTarget "Pods-RNTinderCloneApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B589728855AE54BA5FF1C340A7DF29CF /* Debug */,
+				B94A1E861390BC3853F75EBF6A115E5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}
